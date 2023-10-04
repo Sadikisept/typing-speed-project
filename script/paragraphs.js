@@ -1,0 +1,17 @@
+const paragraphs = [
+    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus non quos suscipit culpa eligendi tempore quas, porro veniam debitis laboriosam.",
+    "The collapse happened on Sunday afternoon local time as around 100 people were attending a baptism at Santa Cruz church in Ciudad Madero of the imag.",
+    "Sixty people were injured, at least two of them seriously, and dozens were trapped underneath the rubble Repellendus non quos suscipit culpa eligen.",
+    "Local residents rushed to the building with shovels and pickaxes to try to free those trapped them seriously, and dozens were trapped underneath.",
+    "The governor of Tamaulipas has said that all of those missing have been accounted for. Rescue workers used thermal imaging cameras to ensure no one.",
+    "It is not yet clear what may have caused the collapse but the mayor of Ciudad Madero said it was probably due tothermal imaging cameras to ensure no.",
+    "Ángel Vargas, the priest who was celebrating the baptisms when the collapse occurred said that a day of celebration had turned into a tragedy.",
+    "They came to search for heaven for the little ones and found eternity. I want the families to find peace. All of this is unfathomable.",
+    "Local journalist Franc Contreras told the BBC World Service's Newsday programme that the collapse happened at a key moment in the service.",
+    "People were lined up to take the communion - of course that's sort of the climax of the Catholic Mass - and that's when the roof came down on top.",
+    "Of them; bricks, concrete, and of course steel support structures coming down on top of the people, he saidprobably due tothermal imaging cameras.",
+    "shovels and pickaxes to try to free those trapped them seriously, and dozens were trapped underneath day of celebration had turned into a tragedy.",
+    "journalist Franc Contreras told the BBC World Service's Newsday programme that the collapse culpa eligendi tempore quas, porro veniam debitis laboriosam.",
+    "collapse happened on Sunday afternoon local time as around 100 people were attending a baptism eligendi tempore quas, porro veniam debitis laboriosam.",
+    "residents rushed to the building with shovels and pickaxes to try to free those trapped telit. course that's sort of the climax of the Catholic Mass.",  
+];

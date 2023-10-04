@@ -4,37 +4,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>typing test</title>
+    <title>typing test game</title>
     <!--===== google font==== -->
-    <link href="https://fonts-googleapis.com/css2?family=Poppins:wght@400;600&display=swap">
+
     <!-- ====css link ==-->
     <link rel="stylesheet" href="style/style.css">
 </head>
 
 <body>
-    <div class="container">
-        <div class="stats">
-            <p>time <span id="timer">0s</span></p>
-            <p>mistakes <span id="mistakes">0</span></p>
-        </div>
-        <div id="quote" onmousedown="return false" onselectstart="return false">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Tempore illo necessitatibus soluta alias amet optio consequatur!
-            Saepe nihil illum aliquam?
-        </div>
-        <textarea id="quote-input"rows="3" placeholder="type here the test start.."></textarea>
-         <button id="start-test">Start Test</button>
-         <button id="stop-test">Stop Test</button>
-         <div class="result">
-            <h3>Result</h3>
-            <div class="wrapper">
-                <p>Accuracy: <span id="accuracy"></span></p>
-                <p>Speed <span id="wpm"></span></p>
+    <div class="wrapper">
+        <input type="text" class="input-field">
+        <div class="content-box">
+            <div class="typing-text">
+                <p></p>
             </div>
-         </div>
+            <div class="content">
+                <ul class="result-detail">
+                    <li class="time">
+                        <p>Time Left</p>
+                        <span><b>60</b>s</span>
+                    </li>
+                    <li class="mistakes">
+                        <p>Mistakes:</p>
+                        <span>0</span>
+                    </li>
+                    <li class="wpm">
+                        <p>WPM:</p>
+                        <span>0</span>
+                    </li>
+                    <li class="cpm">
+                        <p>CPM:</p>
+                        <span>0</span>
+                    </li>
+                </ul>
+                <button>Try Again</button>
+            </div>
+        </div>
     </div>
 
     <!-- ===script ====-->
+    <script src="script/paragraphs.js"></script>
     <script src="script/script.js"></script>
 </body>
 
